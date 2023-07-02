@@ -70,3 +70,6 @@ public:
 				currentNode = currentNode->rightchild;
 		}
 	}
+
+	void inorder(node* ptr)
+	{
